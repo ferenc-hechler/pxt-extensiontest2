@@ -1,0 +1,18 @@
+{
+    "name": "extensiontest",
+    "version": "0.1.3",
+    "description": "test for calliope extensions-v013.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "extensiontest.ts",
+        "extensiontest.cpp",
+        "shims.d.ts",
+        "enums.d.ts"
+    ],
+    "testFiles": [],
+    "public": true
+}
